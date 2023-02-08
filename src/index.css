@@ -49,10 +49,10 @@ main,
 .quote-card {
   position: relative;
   width: 100%;
-  max-width: 500px;
+  max-width: 550px;
   margin: auto;
-  padding: 2rem 2rem 4rem;
-  border-radius: 0.5rem;
+  padding: 3rem 2rem 5rem;
+  border-radius: 0.8rem;
   text-align: center;
   background: var(--clr-dark-grayish-blue);
 }
@@ -74,8 +74,8 @@ main,
   bottom: -33.33px;
   left: 50%;
   transform: translateX(-50%);
-  width: 60px;
-  height: 60px;
+  width: 65px;
+  height: 65px;
   margin: auto;
   border: none;
   border-radius: 5rem;
@@ -120,7 +120,7 @@ main,
 }
 
 /* Resposive style */
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 700px) {
   .quote-card {
     max-width: 90%;
   }
