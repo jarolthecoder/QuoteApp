@@ -19,9 +19,9 @@ Finally, the 'QuoteApp' component uses the 'useFetch' hook to fetch data from th
 The component destructures the hook's returned values into data, fetchData, and isLoading variables. The data object is destructured again into two properties, id and advice once the data is not null. As for the fetchData function, it is passed as a prop to the 'Button' component, which will trigger a new fetch request and update the data when the button is clicked.
 
 ### View
-![alt text](./src/assets/design/jarolthecoder.github.io_QuoteApp_desktop)
-![alt text](./src/assets/design/jarolthecoder.github.io_QuoteApp_active)
-![alt text](./src/assets/design/jarolthecoder.github.io_QuoteApp_mobile)
+![alt text](./src/assets/design/jarolthecoder.github.io_QuoteApp_desktop?raw=true)
+![alt text](./src/assets/design/jarolthecoder.github.io_QuoteApp_active?raw=true)
+![alt text](./src/assets/design/jarolthecoder.github.io_QuoteApp_mobile?raw=true)
 
 ### Attributions 
 [Frontend Mentor](https://www.frontendmentor.io), [Advice Slip API](https://api.adviceslip.com/)
