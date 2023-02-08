@@ -23,7 +23,7 @@ The component destructures the hook's returned values into data, fetchData, and 
 
 ![alt text](src/assets/design/jarolthecoder.github.io_QuoteApp_active.png)
 
-![alt text](src/assets/design/jarolthecoder.github.io_QuoteApp_mobile)
+![alt text](src/assets/design/jarolthecoder.github.io_QuoteApp_mobile.png)
 
 ### Attributions 
 [Frontend Mentor](https://www.frontendmentor.io), [Advice Slip API](https://api.adviceslip.com/)
