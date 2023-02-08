@@ -12,7 +12,9 @@ The hook uses the useEffect hook to make the fetch request when the component us
 
 This custom hook returns an object containing the current data, isLoading, and fetchData properties of the state. This allows a component that uses the useFetch hook to access the fetched data, the loading state, and the fetch function.
 
-Finally, the 'QuoteApp' component uses the 'useFetch' hook to fetch data from the [https://api.adviceslip.com/advice] URL. The hook returns the fetched data, a boolean flag indicating whether the data is still being loaded, and the fetchData function.
+Finally, the 'QuoteApp' component uses the 'useFetch' hook to fetch data from the [](https://api.adviceslip.com/advice) URL. The hook returns the fetched data, a boolean flag indicating whether the data is still being loaded, and the fetchData function.
 
 The component destructures the hook's returned values into data, fetchData, and isLoading variables. The data object is destructured again into two properties, id and advice once the data is not null. As for the fetchData function, it is passed as a prop to the 'Button' component, which will trigger a new fetch request and update the data when the button is clicked.
 
+### Attributions 
+[Frontend Mentor](https://www.frontendmentor.io), [Advice Slip API](https://api.adviceslip.com/)
