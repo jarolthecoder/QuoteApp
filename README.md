@@ -1,6 +1,8 @@
 # Quote Generator App - React
 This web app generates a first quote on window load, after that the user can generate random quotes when pressing the green generator button. For this project, I wanted to specifically work on React custom hooks.
 
+View Live Demo: [Click](https://jarolthecoder.github.io/QuoteApp/)
+
 ## 'useFetch' custom hook
 For the api call I created a custom hook called 'useFetch' that takes a single argument, 'url', representing the URL to fetch data from.
 
