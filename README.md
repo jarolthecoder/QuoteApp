@@ -3,7 +3,9 @@ This web app generates a first quote on window load, after that the user can gen
 
 View Live Demo: [Click](https://jarolthecoder.github.io/QuoteApp/)
 
-![alt text](src/assets/design/jarolthecoder.github.io_QuoteApp_active.png)
+<p align="center">
+ <img src="src/assets/design/jarolthecoder.github.io_QuoteApp_active.png" alt="Project screenshot">
+</p>
 
 
 ## 'useFetch' custom hook
