@@ -1,7 +1,7 @@
 # Quote Generator App - React
 
 <p align="center">
- <img src="src/assets/design/jarolthecoder.github.io_QuoteApp_active.png" alt="Project screenshot">
+ <img src="src/assets/design/quote-app-screenshot.png" alt="Project screenshot">
 </p>
 
 This web app generates a first quote on window load, after that the user can generate random quotes when pressing the green generator button. For this project, I wanted to specifically work on React custom hooks.

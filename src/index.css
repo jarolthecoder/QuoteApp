@@ -1,5 +1,5 @@
-/* Font: Heebo - 400, 600, 700 */ 
-@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;600;700&display=swap');
+/* Font: Manrope - 400, 600, 700 */ 
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700&display=swap');
 
 :root {
   /* Primary */
@@ -22,7 +22,7 @@
 
 body {
   background: var(--clr-dark-blue);
-  font-family: 'Heebo', sans-serif;
+  font-family: 'Manrope', sans-serif;
   font-weight: 600;
   letter-spacing: 1px;
   color: var(--clr-light-cyan);

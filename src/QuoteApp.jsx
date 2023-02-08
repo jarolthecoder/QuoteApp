@@ -15,10 +15,10 @@ export const QuoteApp = () => {
         ? <Loader />
       
         : <div className="quote-card animate__animated animate__fadeIn animate__fast">
-            <blockquote className="block-quote">
+            <div className="block-quote">
               <p className="author">Advice 	&#35;{id}</p>
-              <p className="quote">&#34;{advice}&#34;</p>
-            </blockquote>
+              <q className="quote">{advice}</q>
+            </div>
             <Divider />
             <Button customFunction={()=> fetchData()} />
           </div>
