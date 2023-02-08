@@ -31,6 +31,7 @@ body {
 main {
   width: 100%;
   height: 100vh;
+  height: 100dvh;
 }
 
 /* Quote card */
@@ -124,6 +125,6 @@ main,
   }
 
   .quote {
-    font-size: 1.35rem;
+    font-size: 1.25rem;
   }
 }
